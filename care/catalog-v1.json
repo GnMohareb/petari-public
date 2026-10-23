@@ -1,0 +1,906 @@
+{
+  "schemaVersion": 1,
+  "version": 1,
+  "publishedAt": "2026-10-23",
+  "breeds": [
+    {
+      "species": "dog",
+      "key": "golden-retriever",
+      "name": "Golden Retriever",
+      "aliases": [
+        "Golden Retriever Dog",
+        "Golden"
+      ]
+    },
+    {
+      "species": "dog",
+      "key": "labrador-retriever",
+      "name": "Labrador Retriever",
+      "aliases": [
+        "Labrador",
+        "Lab"
+      ]
+    },
+    {
+      "species": "dog",
+      "key": "french-bulldog",
+      "name": "French Bulldog",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "poodle",
+      "name": "Poodle",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "german-shepherd",
+      "name": "German Shepherd",
+      "aliases": [
+        "German Shepherd Dog",
+        "GSD"
+      ]
+    },
+    {
+      "species": "dog",
+      "key": "pembroke-welsh-corgi",
+      "name": "Pembroke Welsh Corgi",
+      "aliases": [
+        "Corgi",
+        "Welsh Corgi"
+      ]
+    },
+    {
+      "species": "dog",
+      "key": "beagle",
+      "name": "Beagle",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "mixed-breed",
+      "name": "Mixed Breed",
+      "aliases": [
+        "Mixed",
+        "Crossbreed",
+        "Unknown Breed"
+      ]
+    },
+    {
+      "species": "dog",
+      "key": "bulldog",
+      "name": "Bulldog",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "rottweiler",
+      "name": "Rottweiler",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "dachshund",
+      "name": "Dachshund",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "chihuahua",
+      "name": "Chihuahua",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "shih-tzu",
+      "name": "Shih Tzu",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "boxer",
+      "name": "Boxer",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "siberian-husky",
+      "name": "Siberian Husky",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "border-collie",
+      "name": "Border Collie",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "australian-shepherd",
+      "name": "Australian Shepherd",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "great-dane",
+      "name": "Great Dane",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "doberman-pinscher",
+      "name": "Doberman Pinscher",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "cavalier-king-charles-spaniel",
+      "name": "Cavalier King Charles Spaniel",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "yorkshire-terrier",
+      "name": "Yorkshire Terrier",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "maltese",
+      "name": "Maltese",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "pomeranian",
+      "name": "Pomeranian",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "shiba-inu",
+      "name": "Shiba Inu",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "akita",
+      "name": "Akita",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "bernese-mountain-dog",
+      "name": "Bernese Mountain Dog",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "bichon-frise",
+      "name": "Bichon Frise",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "boston-terrier",
+      "name": "Boston Terrier",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "cane-corso",
+      "name": "Cane Corso",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "dalmatian",
+      "name": "Dalmatian",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "english-cocker-spaniel",
+      "name": "English Cocker Spaniel",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "english-springer-spaniel",
+      "name": "English Springer Spaniel",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "miniature-schnauzer",
+      "name": "Miniature Schnauzer",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "newfoundland",
+      "name": "Newfoundland",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "saint-bernard",
+      "name": "Saint Bernard",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "samoyed",
+      "name": "Samoyed",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "whippet",
+      "name": "Whippet",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "greyhound",
+      "name": "Greyhound",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "west-highland-white-terrier",
+      "name": "West Highland White Terrier",
+      "aliases": []
+    },
+    {
+      "species": "dog",
+      "key": "jack-russell-terrier",
+      "name": "Jack Russell Terrier",
+      "aliases": []
+    },
+    {
+      "species": "cat",
+      "key": "british-shorthair",
+      "name": "British Shorthair",
+      "aliases": []
+    },
+    {
+      "species": "cat",
+      "key": "domestic-shorthair",
+      "name": "Domestic Shorthair",
+      "aliases": [
+        "DSH"
+      ]
+    },
+    {
+      "species": "cat",
+      "key": "domestic-longhair",
+      "name": "Domestic Longhair",
+      "aliases": [
+        "DLH"
+      ]
+    },
+    {
+      "species": "cat",
+      "key": "maine-coon",
+      "name": "Maine Coon",
+      "aliases": []
+    },
+    {
+      "species": "cat",
+      "key": "siamese",
+      "name": "Siamese",
+      "aliases": []
+    },
+    {
+      "species": "cat",
+      "key": "ragdoll",
+      "name": "Ragdoll",
+      "aliases": []
+    },
+    {
+      "species": "cat",
+      "key": "bengal",
+      "name": "Bengal",
+      "aliases": []
+    },
+    {
+      "species": "cat",
+      "key": "persian",
+      "name": "Persian",
+      "aliases": []
+    },
+    {
+      "species": "cat",
+      "key": "mixed-breed",
+      "name": "Mixed Breed",
+      "aliases": [
+        "Mixed",
+        "Crossbreed",
+        "Unknown Breed"
+      ]
+    },
+    {
+      "species": "cat",
+      "key": "russian-blue",
+      "name": "Russian Blue",
+      "aliases": []
+    },
+    {
+      "species": "cat",
+      "key": "sphynx",
+      "name": "Sphynx",
+      "aliases": []
+    },
+    {
+      "species": "cat",
+      "key": "scottish-fold",
+      "name": "Scottish Fold",
+      "aliases": []
+    },
+    {
+      "species": "cat",
+      "key": "abyssinian",
+      "name": "Abyssinian",
+      "aliases": []
+    },
+    {
+      "species": "cat",
+      "key": "norwegian-forest-cat",
+      "name": "Norwegian Forest Cat",
+      "aliases": []
+    },
+    {
+      "species": "cat",
+      "key": "siberian",
+      "name": "Siberian",
+      "aliases": []
+    },
+    {
+      "species": "cat",
+      "key": "birman",
+      "name": "Birman",
+      "aliases": []
+    },
+    {
+      "species": "cat",
+      "key": "burmese",
+      "name": "Burmese",
+      "aliases": []
+    },
+    {
+      "species": "cat",
+      "key": "oriental-shorthair",
+      "name": "Oriental Shorthair",
+      "aliases": []
+    },
+    {
+      "species": "cat",
+      "key": "american-shorthair",
+      "name": "American Shorthair",
+      "aliases": []
+    },
+    {
+      "species": "cat",
+      "key": "devon-rex",
+      "name": "Devon Rex",
+      "aliases": []
+    }
+  ],
+  "templates": [
+    {
+      "id": "everyday-baseline",
+      "version": 1,
+      "status": "published",
+      "species": "*",
+      "breeds": [],
+      "regions": [],
+      "sources": [
+        "https://wsava.org/global-guidelines/vaccination-guidelines/"
+      ],
+      "reviewedBy": "Petari editorial review of discussion prompts; not veterinary approval",
+      "reviewedOn": "2026-10-23",
+      "veterinaryReviewed": false,
+      "rules": [
+        {
+          "key": "wellness",
+          "title": "Wellness and species-specific care review",
+          "category": "wellness",
+          "description": "Bring previous records and agree on individual checkup and vaccination dates with your veterinarian. No missed treatment is assumed.",
+          "timing": {
+            "anchor": "today",
+            "days": 7,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": null,
+          "intactOnly": false,
+          "lifeStage": "all",
+          "repeatMonths": 0
+        },
+        {
+          "key": "prevention",
+          "title": "Discuss parasite prevention",
+          "category": "prevention",
+          "description": "Ask which parasites matter locally and for your pet's lifestyle. Confirm tests, products and timing with your veterinarian. No medication is assigned.",
+          "timing": {
+            "anchor": "today",
+            "days": 7,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": null,
+          "intactOnly": false,
+          "lifeStage": "all",
+          "repeatMonths": 0
+        },
+        {
+          "key": "dental",
+          "title": "Discuss dental care",
+          "category": "dental",
+          "description": "Review home care and whether an assessment is needed. No procedure is scheduled.",
+          "timing": {
+            "anchor": "today",
+            "days": 14,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": null,
+          "intactOnly": false,
+          "lifeStage": "all",
+          "repeatMonths": 0
+        },
+        {
+          "key": "nutrition",
+          "title": "Review nutrition and body condition",
+          "category": "nutrition",
+          "description": "Discuss food, weight and individual needs. No diet change or medicine is prescribed.",
+          "timing": {
+            "anchor": "today",
+            "days": 14,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": null,
+          "intactOnly": false,
+          "lifeStage": "all",
+          "repeatMonths": 0
+        },
+        {
+          "key": "grooming",
+          "title": "Plan grooming and everyday care",
+          "category": "grooming",
+          "description": "Choose coat, nail and everyday care reminders appropriate to your pet. Edit the routine and interval to your needs.",
+          "timing": {
+            "anchor": "today",
+            "days": 14,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": null,
+          "intactOnly": false,
+          "lifeStage": "all",
+          "repeatMonths": 0
+        }
+      ]
+    },
+    {
+      "id": "dog-baseline",
+      "version": 1,
+      "status": "published",
+      "species": "dog",
+      "breeds": [],
+      "regions": [],
+      "sources": [
+        "https://wsava.org/global-guidelines/vaccination-guidelines/",
+        "https://www.aaha.org/resources/2022-aaha-canine-vaccination-guidelines/"
+      ],
+      "reviewedBy": "Petari editorial review of discussion prompts; not veterinary approval",
+      "reviewedOn": "2026-10-23",
+      "veterinaryReviewed": false,
+      "rules": [
+        {
+          "key": "dhp",
+          "title": "DHP (distemper, adenovirus, parvovirus) vaccination review",
+          "category": "vaccine",
+          "description": "Vaccination history is unknown to this planner. Ask your veterinarian whether and when this vaccine is needed. Edit to the confirmed date; do not mark a review as a vaccination given.",
+          "timing": {
+            "anchor": "today",
+            "days": 7,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": null,
+          "intactOnly": false,
+          "lifeStage": "all",
+          "repeatMonths": 0
+        },
+        {
+          "key": "rabies",
+          "title": "Rabies vaccination review",
+          "category": "vaccine",
+          "description": "Local requirements, product and interval vary; your veterinarian confirms what applies. Vaccination history is unknown to this planner. Ask your veterinarian whether and when this vaccine is needed. Edit to the confirmed date; do not mark a review as a vaccination given.",
+          "timing": {
+            "anchor": "today",
+            "days": 7,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": null,
+          "intactOnly": false,
+          "lifeStage": "all",
+          "repeatMonths": 0
+        },
+        {
+          "key": "leptospirosis",
+          "title": "Leptospirosis vaccination review",
+          "category": "vaccine",
+          "description": "Discuss individual suitability and regional protection. Vaccination history is unknown to this planner. Ask your veterinarian whether and when this vaccine is needed. Edit to the confirmed date; do not mark a review as a vaccination given.",
+          "timing": {
+            "anchor": "today",
+            "days": 7,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": null,
+          "intactOnly": false,
+          "lifeStage": "all",
+          "repeatMonths": 0
+        },
+        {
+          "key": "lifestyle-vaccines",
+          "title": "Discuss lifestyle vaccines",
+          "category": "wellness",
+          "description": "Ask about Bordetella, canine influenza and Lyme protection where relevant to boarding, travel and exposure. Your veterinarian decides whether these are needed.",
+          "timing": {
+            "anchor": "today",
+            "days": 7,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": null,
+          "intactOnly": false,
+          "lifeStage": "all",
+          "repeatMonths": 0
+        },
+        {
+          "key": "neuter-discussion",
+          "title": "Discuss spay or neuter options",
+          "category": "wellness",
+          "description": "If relevant, discuss individual benefits, risks and timing. No surgery date is assigned.",
+          "timing": {
+            "anchor": "today",
+            "days": 30,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": null,
+          "intactOnly": true,
+          "lifeStage": "all",
+          "repeatMonths": 0
+        }
+      ]
+    },
+    {
+      "id": "cat-baseline",
+      "version": 1,
+      "status": "published",
+      "species": "cat",
+      "breeds": [],
+      "regions": [],
+      "sources": [
+        "https://wsava.org/global-guidelines/vaccination-guidelines/"
+      ],
+      "reviewedBy": "Petari editorial review of discussion prompts; not veterinary approval",
+      "reviewedOn": "2026-10-23",
+      "veterinaryReviewed": false,
+      "rules": [
+        {
+          "key": "fvrcp",
+          "title": "FVRCP (herpesvirus, calicivirus, panleukopenia) vaccination review",
+          "category": "vaccine",
+          "description": "Vaccination history is unknown to this planner. Ask your veterinarian whether and when this vaccine is needed. Edit to the confirmed date; do not mark a review as a vaccination given.",
+          "timing": {
+            "anchor": "today",
+            "days": 7,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": null,
+          "intactOnly": false,
+          "lifeStage": "all",
+          "repeatMonths": 0
+        },
+        {
+          "key": "rabies",
+          "title": "Rabies vaccination review",
+          "category": "vaccine",
+          "description": "Your veterinarian confirms local requirements and individual needs. Vaccination history is unknown to this planner. Ask your veterinarian whether and when this vaccine is needed. Edit to the confirmed date; do not mark a review as a vaccination given.",
+          "timing": {
+            "anchor": "today",
+            "days": 7,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": null,
+          "intactOnly": false,
+          "lifeStage": "all",
+          "repeatMonths": 0
+        },
+        {
+          "key": "felv",
+          "title": "FeLV (feline leukemia) vaccination review",
+          "category": "vaccine",
+          "description": "Discuss age, test history and exposure with your veterinarian. Vaccination history is unknown to this planner. Ask your veterinarian whether and when this vaccine is needed. Edit to the confirmed date; do not mark a review as a vaccination given.",
+          "timing": {
+            "anchor": "today",
+            "days": 7,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": null,
+          "intactOnly": false,
+          "lifeStage": "all",
+          "repeatMonths": 0
+        },
+        {
+          "key": "neuter-discussion",
+          "title": "Discuss spay or neuter options",
+          "category": "wellness",
+          "description": "If relevant, discuss individual benefits, risks and timing. No surgery date is assigned.",
+          "timing": {
+            "anchor": "today",
+            "days": 30,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": null,
+          "intactOnly": true,
+          "lifeStage": "all",
+          "repeatMonths": 0
+        }
+      ]
+    },
+    {
+      "id": "dog-growth-review",
+      "version": 1,
+      "status": "published",
+      "species": "dog",
+      "breeds": [],
+      "regions": [],
+      "sources": [
+        "https://wsava.org/global-guidelines/vaccination-guidelines/"
+      ],
+      "reviewedBy": "Petari editorial review of discussion prompts; not veterinary approval",
+      "reviewedOn": "2026-10-23",
+      "veterinaryReviewed": false,
+      "rules": [
+        {
+          "key": "wellness",
+          "title": "Young pet wellness and vaccination-history review",
+          "category": "wellness",
+          "description": "Bring previous records and agree on your pet's own growth and vaccination plan. Dates here are planning check-ins.",
+          "timing": {
+            "anchor": "today",
+            "days": 7,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": 51,
+          "intactOnly": false,
+          "lifeStage": "puppy",
+          "repeatMonths": 0
+        },
+        {
+          "key": "nutrition",
+          "title": "Discuss growth and nutrition",
+          "category": "nutrition",
+          "description": "Growth timing varies by species and breed. Ask about body condition and food suitable for your pet; no automatic diet transition is assigned.",
+          "timing": {
+            "anchor": "today",
+            "days": 14,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": 51,
+          "intactOnly": false,
+          "lifeStage": "puppy",
+          "repeatMonths": 0
+        },
+        {
+          "key": "dhp",
+          "title": "DHP vaccination review",
+          "category": "vaccine",
+          "description": "Age-based planning check-in; this is not a first dose or an instruction to administer a vaccine. Vaccination history is unknown to this planner. Ask your veterinarian whether and when this vaccine is needed. Edit to the confirmed date; do not mark a review as a vaccination given.",
+          "timing": {
+            "anchor": "birth",
+            "days": 56,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": 51,
+          "intactOnly": false,
+          "lifeStage": "puppy",
+          "repeatMonths": 0
+        },
+        {
+          "key": "dhp-series-review",
+          "title": "DHP series and records review",
+          "category": "wellness",
+          "description": "Discuss the individual young-pet series and recorded doses with your veterinarian. This 16-week check-in is a discussion date, not a vaccine dose.",
+          "timing": {
+            "anchor": "birth",
+            "days": 112,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": 51,
+          "intactOnly": false,
+          "lifeStage": "puppy",
+          "repeatMonths": 0
+        },
+        {
+          "key": "growth-review",
+          "title": "Review care as your pet grows",
+          "category": "wellness",
+          "description": "Update care with your veterinarian as your pet grows. This first-birthday check-in is not a required treatment.",
+          "timing": {
+            "anchor": "birth",
+            "days": 0,
+            "months": 12,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": 51,
+          "intactOnly": false,
+          "lifeStage": "puppy",
+          "repeatMonths": 0
+        }
+      ]
+    },
+    {
+      "id": "cat-growth-review",
+      "version": 1,
+      "status": "published",
+      "species": "cat",
+      "breeds": [],
+      "regions": [],
+      "sources": [
+        "https://wsava.org/global-guidelines/vaccination-guidelines/"
+      ],
+      "reviewedBy": "Petari editorial review of discussion prompts; not veterinary approval",
+      "reviewedOn": "2026-10-23",
+      "veterinaryReviewed": false,
+      "rules": [
+        {
+          "key": "wellness",
+          "title": "Young pet wellness and vaccination-history review",
+          "category": "wellness",
+          "description": "Bring previous records and agree on your pet's own growth and vaccination plan. Dates here are planning check-ins.",
+          "timing": {
+            "anchor": "today",
+            "days": 7,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": 51,
+          "intactOnly": false,
+          "lifeStage": "kitten",
+          "repeatMonths": 0
+        },
+        {
+          "key": "nutrition",
+          "title": "Discuss growth and nutrition",
+          "category": "nutrition",
+          "description": "Growth timing varies by species and breed. Ask about body condition and food suitable for your pet; no automatic diet transition is assigned.",
+          "timing": {
+            "anchor": "today",
+            "days": 14,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": 51,
+          "intactOnly": false,
+          "lifeStage": "kitten",
+          "repeatMonths": 0
+        },
+        {
+          "key": "fvrcp",
+          "title": "FVRCP vaccination review",
+          "category": "vaccine",
+          "description": "Age-based planning check-in; this is not a first dose or an instruction to administer a vaccine. Vaccination history is unknown to this planner. Ask your veterinarian whether and when this vaccine is needed. Edit to the confirmed date; do not mark a review as a vaccination given.",
+          "timing": {
+            "anchor": "birth",
+            "days": 56,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": 51,
+          "intactOnly": false,
+          "lifeStage": "kitten",
+          "repeatMonths": 0
+        },
+        {
+          "key": "fvrcp-series-review",
+          "title": "FVRCP series and records review",
+          "category": "wellness",
+          "description": "Discuss the individual young-pet series and recorded doses with your veterinarian. This 16-week check-in is a discussion date, not a vaccine dose.",
+          "timing": {
+            "anchor": "birth",
+            "days": 112,
+            "months": 0,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": 51,
+          "intactOnly": false,
+          "lifeStage": "kitten",
+          "repeatMonths": 0
+        },
+        {
+          "key": "growth-review",
+          "title": "Review care as your pet grows",
+          "category": "wellness",
+          "description": "Update care with your veterinarian as your pet grows. This first-birthday check-in is not a required treatment.",
+          "timing": {
+            "anchor": "birth",
+            "days": 0,
+            "months": 12,
+            "afterRule": ""
+          },
+          "action": "review",
+          "minAgeWeeks": 0,
+          "maxAgeWeeks": 51,
+          "intactOnly": false,
+          "lifeStage": "kitten",
+          "repeatMonths": 0
+        }
+      ]
+    }
+  ]
+}
